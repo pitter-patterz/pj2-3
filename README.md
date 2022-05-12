@@ -8,14 +8,14 @@ Train data on VOC dataset. If you want to change the hyperparameters, please mod
 ```python
 python train.py
 ```
-For testing data on VOC dataset
+For testing on VOC dataset
 ```python
 python test.py
 ```
-For detecting data on custom dataset
+For detecting on custom dataset
 ```python
 python detect.py --source dataset_path
 ```
 You should first download the model weights file and put it under this folder before running detect.py. 
 
-The link is https://pan.baidu.com/s/1anyqWPLHFTJfw_bmdXvG1w (pwd：nd9t).
+Link: https://pan.baidu.com/s/1anyqWPLHFTJfw_bmdXvG1w (pwd：nd9t)
