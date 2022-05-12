@@ -1,5 +1,6 @@
 # Introduction
-This is the second task of project 2. Here uses yolov3 to do classfication on VOC-2007 datasets. The Implementation of this model is referred to https://github.com/ultralytics/yolov3
+This is the third task of project 2. We use yolov3 to do object detection on VOC2007 images. The Implementation of this model is referred to https://github.com/ultralytics/yolov3.
+
 # Usage
 Train data on VOC dataset. If you want to change the hyperparameters, please modified the data/hyps/hyp.scratch.yaml.
 ```python
